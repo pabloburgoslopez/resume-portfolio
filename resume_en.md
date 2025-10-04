@@ -1,6 +1,6 @@
 # Resume – IT (EN)
 
-Name Lastname | City, State | Phone | Email | GitHub: github.com/pabloburgoslopez
+Pablo Burgos | Toa Baja, PR | tic.it.pablo@gmail.com | GitHub: github.com/pabloburgoslopez
 
 ## Professional Summary
 Entry-level IT professional with Windows/Linux support, networking (pfSense, VLAN, DNS, VPN) and cybersecurity (Suricata). Ongoing training: Google Cybersecurity; hands-on practice in Hack The Box.
@@ -13,7 +13,7 @@ Entry-level IT professional with Windows/Linux support, networking (pfSense, VLA
 - Tools: Git, Tactical RMM, DNS-O-Matic, Cloudflare
 
 ## Work Experience
-IT Support Specialist — (Company, dates)
+IT Support Specialist — (Technipak International Corp, Present)
 - Technical support on Windows/Linux.
 - Firewall configuration (pfSense).
 - IDS monitoring (Suricata).
