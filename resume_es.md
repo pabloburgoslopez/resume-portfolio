@@ -1,6 +1,6 @@
 # Resume – IT (ES)
 
-Nombre Apellido | Ciudad, Estado | Teléfono | Email | GitHub: github.com/pabloburgoslopez
+Pablo Burgos | Toa Baja, PR | tic.it.pablo@gmail.com | GitHub: github.com/pabloburgoslopez
 
 ## Resumen Profesional
 Perfil junior IT con soporte en Windows/Linux, redes (pfSense, VLAN, DNS, VPN) y ciberseguridad (Suricata). Formación en curso: Google Cybersecurity; práctica en Hack The Box.
@@ -13,7 +13,7 @@ Perfil junior IT con soporte en Windows/Linux, redes (pfSense, VLAN, DNS, VPN) y
 - Herramientas: Git, Tactical RMM, DNS-O-Matic, Cloudflare
 
 ## Experiencia Profesional
-IT Support Specialist — (Empresa, fechas)
+IT Support Specialist — (Technipak International Corp, Presente)
 - Soporte técnico en Windows/Linux.
 - Configuración de firewall (pfSense).
 - Monitoreo IDS Suricata.
